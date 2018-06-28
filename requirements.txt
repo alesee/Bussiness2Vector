@@ -1,0 +1,9 @@
+numpy
+pandas
+sqlite3
+nltk
+gensim
+bs4
+lxml
+requests
+pandas 
